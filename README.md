@@ -1,11 +1,11 @@
 # Πρότυπο Σχεδίασης: Singleton
 
-- Εφαρμόζεται όταν το σύστημα χρειάζεται ένα και μόνο ένα στιγμιότυπο μιας συγκεκριμένης κλάσης.
+- Εφαρμόζεται όταν το σύστημα χρειάζεται **ένα και μόνο ένα** στιγμιότυπο μιας συγκεκριμένης κλάσης.
 
 
 ## Παράδειγμα
 
-- [ ] ...
+- [ ] Ο Παρθενώνας
 
 ### Ενδεικτικές πηγές για περαιτέρω μελέτη:
 - [ ] [Design patterns: elements of reusable object-oriented software](http://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf)
