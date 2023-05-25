@@ -13,11 +13,13 @@ theParthenon::theParthenon() {};
 
 // the destructor
 theParthenon::~theParthenon() {
-	delete the_unique_instance;
+	if (the_unique_instance != NULL) {
+		delete the_unique_instance;
+	}
 };
 
 theParthenon* theParthenon::get_the_unique_instance() {
-	if (the_unique_instance = NULL) {
+	if (the_unique_instance == NULL) {
 		the_unique_instance = new theParthenon();
 	}
 
