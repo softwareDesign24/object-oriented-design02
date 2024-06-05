@@ -14,9 +14,6 @@ private:
 	// it must be static and non-public
 	theParthenon();
 
-	// the destructor
-	~theParthenon();
-
 	// basic element: it must be static and non-public
 	// a pointer to the (one and only) object
 	// which is NULL before instantiated 
