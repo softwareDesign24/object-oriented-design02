@@ -24,6 +24,9 @@ public:
 	// it returns a pointer to the (unique) object or NULL
 	static theParthenon* get_the_unique_instance();
 
+	// the destructor
+	~theParthenon();
+
 	// a method
 	void announcements();
 };
