@@ -7,5 +7,9 @@
 
 ![Διάγραμμα κλάσεων (εκτεταμένο)](../img/theParthenon_singleton6.png)
 
+## Command line
+Μεταγλώττιση/εκτέλεση κώδικα:
+![Command Line](../img/cli_singleton.png)
+
 ## Ενδεικτικός κώδικας
 Κάντε κλικ [εδώ](./source_code) (C++).
