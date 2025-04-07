@@ -9,7 +9,7 @@
 
 ## Command line
 Μεταγλώττιση/εκτέλεση κώδικα:
-
+<br>
 ![Command Line](../img/cli_singleton.png)
 
 ## Ενδεικτικός κώδικας
